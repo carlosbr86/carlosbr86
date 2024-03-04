@@ -15,11 +15,13 @@ Here are some ideas to get you started:
 
 
 # 👋 Hi there
-# Carlos
+# Carlos Rodrigues
 
 I'm Carlos Rodrigues, based in Toronto, :Canada:, and I like serverless, javascript, and soccer.
 
+<!--
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=carlosbr86.visitor-badge)
+-->
 
 - 🙋‍♂️ Pronouns: He/him
 <!--
